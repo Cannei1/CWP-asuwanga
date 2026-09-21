@@ -3,4 +3,4 @@ userpass = input()
 if userpass == password:
     print("ACCESS GRANTED")
 else:
-    print("ACCESS DENIED.")
+    print("ACCESS DENIED")
