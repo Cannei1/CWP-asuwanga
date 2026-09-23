@@ -8,4 +8,5 @@ for number in array:
 
 result = list(set(result))
 
+print(array)
 print(result)
