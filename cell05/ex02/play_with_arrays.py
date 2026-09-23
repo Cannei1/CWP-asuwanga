@@ -6,4 +6,5 @@ for number in array:
     if number > 5:
         result.append(number + 2)
 
+print(array)
 print(result)
